@@ -1,0 +1,22 @@
+body{
+    background-image: url(https://fullhdoboi.ru/wp-content/uploads/_ph/20/836972638.jpg);
+}
+table{
+    margin: auto;
+    background-color: aqua;
+    width: 1500px;
+    height: 700px;
+    text-align: center  ;
+    color: black;
+}
+.name{
+    background: linear-gradient(to right, rgba(39, 138, 47, 0.87), rgb(190, 149, 151));
+    color: black ;
+}
+.color{
+    background-color:rgba(199, 16, 16, 0.733) ;
+    color: honeydew;
+}
+h1{
+    background-color: chartreuse;
+}
